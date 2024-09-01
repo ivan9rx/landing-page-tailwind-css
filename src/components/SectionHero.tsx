@@ -11,8 +11,8 @@ export function SectionHero() {
         <section className="w-full h-[876px] bg-img_bg_hero bg-no-repeat bg-center bg-cover">
             <Container>
                 <div className="flex-1 max-w-[497px]">
-                    <h1 className="text-white text-7xl text-bold font-bold mb-4">Tenha seu banco na palma da mão.</h1>
-                    <p className="text-white text-xl max-w-[408px] mb-8">Todas as operações que você precisa em um só lugar. Simples, completo e feito para você</p>
+                    <h1 className="text-white text-7xl text-bold font-bold mb-4">Lorem ipsum dolor sit amet lorem.</h1>
+                    <p className="text-white text-xl max-w-[408px] mb-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam suscipit.</p>
                     <div className="flex gap-4 mb-24">
                         <button >
                             <Image src={ImageAppleStore} alt="apple store" />
